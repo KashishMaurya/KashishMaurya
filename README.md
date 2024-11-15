@@ -4,7 +4,7 @@
  - 🔭 I’m currently working on **WanderLust , Stalk Stock**<br><br>- 🌱 I’m currently learning **React , DSA , Python**<br><br>- 📫 How to reach me **kashish.social.18@gmail.com**<br><br>- ⚡ Fun fact **🤖 “Just a human, learning from my bugs and Googling like a pro”**<br>
 
 
-## 🌐 Socials:
+## 🌐 Let's connect:
 
 <p align="left">
 <a href="https://linkedin.com/in/kashish maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish maurya" height="30" width="40" /></a>
