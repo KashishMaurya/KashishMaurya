@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashish Maurya</h1>
-<h3 align="center">💻 Full Stack Developer | MERN Stack | DSA | 🌐 Portfolio of projects & experiments on the journey to becoming a software engineer 🌏 Passionate about creating meaningful web apps 🛠️ Constantly improving, learning, and building for the future 💬 Motto: “Every bug is a step closer to a solution… or a really funny Stack Overflow post”</h3>
+<h3 align="center">💻 Full Stack Developer | MERN Stack | DSA | AI/ML 🌐 Portfolio of projects & experiments on the journey to becoming a software engineer 🌏 Passionate about creating meaningful web apps 🛠️ Constantly improving, learning, and building for the future 💬 Motto: “Every bug is a step closer to a solution… or a really funny Stack Overflow post”</h3>
 
- - 🔭 I’m currently working on **WanderLust , Stalk Stock**<br><br>- 🌱 I’m currently learning **React , DSA , Python**<br><br>- 📫 How to reach me **kashish.social.18@gmail.com**<br><br>- ⚡ Fun fact **🤖 “Just a human, learning from my bugs and Googling like a pro”**<br>
+ - 🔭 I’m currently working on **WanderLust , Stalk Stock**<br><br>- 🌱 I’m currently learning **AI/ML , DSA , Python**<br><br>- 📫 How to reach me **kashishmaurya.1803@gmail.com **<br><br>- ⚡ Fun fact **🤖 “Just a human, learning from my bugs and Googling like a pro”**<br>
 
 
 ## 🌐 Let's connect:
