@@ -14,7 +14,7 @@
 ### ⚙️ Tech
 
 `C++` `Python` `Java` `JavaScript` `React`
-`Node.js` `Express` `MongoDB` `SQL` `Supabase`
+`Node.js` `Express` `MongoDB` `SQL` `AI/ML`
 `PyTorch` `Scikit-learn` `Pandas` `Seaborn` `Jupyter`
 `Git` `GitHub` `Linux`
 
